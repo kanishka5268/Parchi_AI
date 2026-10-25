@@ -1,3 +1,11 @@
 {
-    "python.defaultInterpreterPath": "C:\\Users\\KANISHKA SUKUNIA\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
+    "python.defaultInterpreterPath": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+    "python.analysis.extraPaths": [
+        "C:\\Users\\KANISHKA SUKUNIA\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages",
+        "${workspaceFolder}"
+    ],
+    "python.autoComplete.extraPaths": [
+        "C:\\Users\\KANISHKA SUKUNIA\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages",
+        "${workspaceFolder}"
+    ]
 }
