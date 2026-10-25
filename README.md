@@ -51,11 +51,17 @@ Parchi AI is an intelligent prescription explanation assistant built with **Sarv
 
 2. **Install Dependencies**:
    ```bash
-   py -m pip install -r requirements.txt
+   pip install -r requirements.txt
    ```
 
 3. **Launch the Application**:
    ```bash
-   py -m streamlit run app.py
+   python main.py
    ```
+   *or:*
+   ```bash
+   streamlit run app.py
+   ```
+
+4. **Access in Browser**:
    Open **[http://localhost:8501](http://localhost:8501)** in your browser.
